@@ -1,0 +1,23 @@
+{
+  "name": "ddocs-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^8.0.4",
+    "fs": "^0.0.1-security",
+    "jsdom": "^22.0.0",
+    "officegen": "^0.6.5",
+    "path": "^0.12.7",
+    "puppeteer": "^20.1.1",
+    "selenium-webdriver": "^4.9.0",
+    "turndown": "^7.1.2",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}
