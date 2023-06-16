@@ -1,5 +1,5 @@
 # Discord Developer Portal in Markdown
-This repository contains scraped Markdown files of the Discord Developer Portal. While some formatting errors may exist, Scraped-Discord-Developer-Portal can still be used as a resource for Discord developers.
+This repository contains scraped Markdown files of the Discord Developer Portal. While some formatting errors may exist, It can still be used as a resource for Discord developers.
 
 ## Where are the files?
 All of the Markdown files can be found in the `/docs/` folder.
